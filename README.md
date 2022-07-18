@@ -1,3 +1,3 @@
-# Implementation of ANN using pretrained weights
+## Implementation of ANN using pretrained weights
 
 

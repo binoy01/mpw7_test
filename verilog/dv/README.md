@@ -1,1 +1,2 @@
-## Running testbench
+## Firmware and testbench
+
